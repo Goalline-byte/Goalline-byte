@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aradhna Singh
-- 👀 I’m interested in AI/ML
+- 👀 I’m developing interest in coding.
 - 🌱 I’m currently learning Data Structure and Algorithm
 - 📫 How to reach me https://www.linkedin.com/in/aradhna-s55903a223
 
