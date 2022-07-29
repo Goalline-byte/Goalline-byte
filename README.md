@@ -1,6 +1,6 @@
 [![MasterHead](https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03f8ce7d306e12094d8853b6a0/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67)]
-<h1 align="center">Hi 👋, I'm Aradhna Singh</h1>
-<h3 align="center">A final year student major in Computer Science Engineering.</h3>
+<h1 align="center">Hi there👋, I'm Aradhna Singh</h1>
+<h3 align="center">Contributing here through my practices. Thanks for checking in!</h3>
 <img align="right" alt="Coding" width="800" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b76116a4701b2ece62ed83130464d9f79f0c9dacff262&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goalline-byte&label=Profile%20views&color=0e75b6&style=flat" alt="goalline-byte" /> </p>
