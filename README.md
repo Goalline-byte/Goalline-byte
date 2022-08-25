@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goalline-byte" alt="goalline-byte" /></a> </p>
 
-- 🔭 I’m currently working on **something cool;**
+- 🔭 I’m currently working on **my project(Banking System) with 2 others;**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms on leetcode;**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **aradhnatnsingh01@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I am coder**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
