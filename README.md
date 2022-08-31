@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms on leetcode;**
 
-- 👨‍💻 One of my projects are available at [https://goalline-byte.github.io/Algo-Sort/](https://github.com/Goalline-byte)
+- 👨‍💻 One of my cool project available at [https://goalline-byte.github.io/Algo-Sort/](https://goalline-byte.github.io/Algo-Sort/)
 
 - 📫 How to reach me **aradhnatnsingh01@gmail.com**
 
