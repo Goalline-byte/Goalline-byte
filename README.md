@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goalline-byte" alt="goalline-byte" /></a> </p>
 
-- 🔭 I’m currently working on **my project(Banking System) with 2 others;**
+- 🔭 I’m currently working on **my project(Banking System);**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms on leetcode;**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Goalline-byte](https://github.com/Goalline-byte)
+- 👨‍💻 One of my projects are available at [https://goalline-byte.github.io/Algo-Sort/](https://github.com/Goalline-byte)
 
 - 📫 How to reach me **aradhnatnsingh01@gmail.com**
 
