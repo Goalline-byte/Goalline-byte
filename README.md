@@ -7,13 +7,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goalline-byte" alt="goalline-byte" /></a> </p>
 
-- 🔭 I’m currently working on **my project(Banking System);**
+- 🔭 Welcome to my GitHub! I'm a Data Engineer with over 2 years of experience at **Accenture**, specializing in building scalable data pipelines and cloud-native solutions using **Google Cloud Platform (GCP)**. I focus on transforming raw data into valuable insights that empower data-driven decision-making;**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms on leetcode;**
+- 🌱 Google Cloud Platform (BigQuery, Dataflow, Cloud Storage, Pub/Sub);**
 
-- 👨‍💻 One of my cool project available at [https://goalline-byte.github.io/Algo-Sort/](https://goalline-byte.github.io/Algo-Sort/)
-
-- 📫 How to reach me **aradhnatnsingh01@gmail.com**
+- 👨‍💻 ETL, Data Pipelines, Workflow Orchestration (Apache Airflow, Cloud Composer)
+- 📫 How to reach me **aradhna.rcew@gmail.com**
 
 - ⚡ Fun fact **I think I am coder**
 
