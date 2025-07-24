@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goalline-byte" alt="goalline-byte" /></a> </p>
 
-- 🔭 I'm a Data Engineer with over 2 years of experience at **Accenture**, specializing in building scalable data pipelines and cloud-native solutions using **Google Cloud Platform (GCP)**. I focus on transforming raw data into valuable insights that empower data-driven decision-making;**
+- 🔭 I'm a Data Engineer with over 2 years of experience at **Accenture**, specializing in building scalable data pipelines and cloud-native solutions using **Google Cloud Platform (GCP)**. I focus on transforming raw data into valuable insights that empower data-driven decision-making;
 
 - 🌱 Google Cloud Platform (BigQuery, Dataflow, Cloud Storage, Pub/Sub)
 
