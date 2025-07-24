@@ -1,5 +1,6 @@
 [![MasterHead](https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03f8ce7d306e12094d8853b6a0/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67)]
-<h1 align="center">Hi there👋, I'm Aradhna Singh</h1>
+<h1 align="center">Hi there👋, I'm Aradhna Singh
+Welcome to my GitHub! I'm a Data Engineer with over 2 years of experience at **Accenture**, specializing in building scalable data pipelines and cloud-native solutions using **Google Cloud Platform (GCP)**. I focus on transforming raw data into valuable insights that empower data-driven decision-making.</h1>
 <h3 align="center">Contributing here through my practices. Thanks for checking in!</h3>
 <img align="right" alt="Coding" width="100%" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b76116a4701b2ece62ed83130464d9f79f0c9dacff262&rid=giphy.gif&ct=g">
 
@@ -7,13 +8,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goalline-byte" alt="goalline-byte" /></a> </p>
 
-- 🔭 I'm a Data Engineer with over 2 years of experience at **Accenture**, specializing in building scalable data pipelines and cloud-native solutions using **Google Cloud Platform (GCP)**. I focus on transforming raw data into valuable insights that empower data-driven decision-making;
+- 🔭 **Cloud Platforms:** Google Cloud Platform (BigQuery, Dataflow, Cloud Storage, Pub/Sub)
 
-- 🌱 Google Cloud Platform (BigQuery, Dataflow, Cloud Storage, Pub/Sub)
+- 🌱 **Data Engineering:** ETL/ELT, Data Pipelines, Workflow Orchestration (Apache Airflow, Cloud Composer)
 
-- 👨‍💻 ETL, Data Pipelines, Workflow Orchestration (Apache Airflow, Cloud Composer)
-- 📫 How to reach me **aradhna.rcew@gmail.com**
-
+- 👨‍💻 **Programming:** Python, SQL, Java(Basic)
+- 📫 Let's Connect
+- 💼 [LinkedIn](www.linkedin.com/in/aradhna-s-55903a223)  
 - ⚡ Fun fact **I think I am coder**
 
 <h3 align="left">Connect with me:</h3>
